@@ -21,6 +21,14 @@ System.out.println("Ug -BCA ");
 private void pg() {
 System.out.println("Pg - MCA");
 }
+
+private void ug1st() {
+System.out.println("run forever till");
+}
+private void pg2nd() {
+System.out.println("loose streak lies");
+}
+
 public static void main(String[] args) {
 	Arts c = new Arts();
 c.bSc();
